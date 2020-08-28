@@ -5,7 +5,7 @@ import os
 # >>> "".join([random.choice(string.printable) for _ in range(24)])
 SECRET_KEY = "V'Ftqjf`B;<pWQ7b_D(Qp;Ak"
 
-FB_APP_ID = 1375479785979344
+FB_APP_ID = 230849604942548
 
 # database init
 basedir = os.path.abspath(os.path.dirname(__file__))

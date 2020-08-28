@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Pillow
+pytest
+Flask-Testing
+selenium
